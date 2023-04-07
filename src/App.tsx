@@ -1,6 +1,5 @@
-import React from 'react';
-import Board from './components/Board';
-import './App.css';
+import React from "react";import Board from "./components/Board";
+import "./App.css";
 
 const App: React.FC = () => {
   return (
@@ -16,4 +15,3 @@ const App: React.FC = () => {
 };
 
 export default App;
-
